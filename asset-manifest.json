@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/flower-app/static/css/main.f812099c.css",
+    "main.js": "/flower-app/static/js/main.d2f2b248.js",
+    "static/media/bg-rose.png": "/flower-app/static/media/bg-rose.aca9f358d8530b62c847.png",
+    "index.html": "/flower-app/index.html",
+    "main.f812099c.css.map": "/flower-app/static/css/main.f812099c.css.map",
+    "main.d2f2b248.js.map": "/flower-app/static/js/main.d2f2b248.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f812099c.css",
+    "static/js/main.d2f2b248.js"
+  ]
+}
