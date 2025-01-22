@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/flower-app/static/css/main.745ac315.css",
-    "main.js": "/flower-app/static/js/main.5065d3eb.js",
+    "main.css": "/flower-app/static/css/main.b8dccd2d.css",
+    "main.js": "/flower-app/static/js/main.4bdc9627.js",
     "static/media/bg-rose.png": "/flower-app/static/media/bg-rose.aca9f358d8530b62c847.png",
     "index.html": "/flower-app/index.html",
-    "main.745ac315.css.map": "/flower-app/static/css/main.745ac315.css.map",
-    "main.5065d3eb.js.map": "/flower-app/static/js/main.5065d3eb.js.map"
+    "main.b8dccd2d.css.map": "/flower-app/static/css/main.b8dccd2d.css.map",
+    "main.4bdc9627.js.map": "/flower-app/static/js/main.4bdc9627.js.map"
   },
   "entrypoints": [
-    "static/css/main.745ac315.css",
-    "static/js/main.5065d3eb.js"
+    "static/css/main.b8dccd2d.css",
+    "static/js/main.4bdc9627.js"
   ]
 }
